@@ -110,11 +110,11 @@ public class Ex1 {
                 }
         }
 
-        /*System.out.println("teste de mergesort");
+        System.out.println("teste de mergesort");
         for (int len = 0; len < 10; len++)
             for (int j = 0; j <= len; j++)
                 test(random_list(len));
-        System.out.println("SUCESSO");*/
+        System.out.println("SUCESSO");
     }
 
 }

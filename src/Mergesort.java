@@ -47,6 +47,21 @@ class Mergesort {
     }
 
     static LinkedList<Integer> mergesort(LinkedList<Integer> l) {
-        return null; // a ser completada
+
+        LinkedList<Integer> ordenada = new LinkedList<Integer>();
+        LinkedList<Integer> lista1 = new LinkedList<Integer>();
+        LinkedList<Integer> lista2 = new LinkedList<Integer>();
+
+        if (l.size() < 2){
+            return l;
+        } else {
+            split(l, lista1, lista2);
+
+            mergesort(lista1);
+            mergesort(lista2);
+            ordenada = merge(lista1, lista2);
+        }
+
+        return ordenada;
     }
 }

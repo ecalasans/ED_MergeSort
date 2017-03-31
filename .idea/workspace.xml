@@ -20,27 +20,30 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ex1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ex1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="104" column="39" lean-forward="true" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+            <state relative-caret-position="-933">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-                <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+                <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+                <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mergesort.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Mergesort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Mergesort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="69">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#621#630#0" expanded="true" />
+                <element signature="e#1279#1288#0" expanded="true" />
+                <element signature="e#1343#1352#0" expanded="true" />
+                <element signature="e#1407#1416#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,8 +70,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Ex1MOD2.java" />
-        <option value="$PROJECT_DIR$/src/Mergesort.java" />
         <option value="$PROJECT_DIR$/src/Ex1.java" />
+        <option value="$PROJECT_DIR$/src/Mergesort.java" />
       </list>
     </option>
   </component>
@@ -591,7 +594,7 @@
       <workItem from="1490562037766" duration="9000" />
       <workItem from="1490564232303" duration="564000" />
       <workItem from="1490943881002" duration="116000" />
-      <workItem from="1490944168501" duration="3353000" />
+      <workItem from="1490944168501" duration="5085000" />
     </task>
     <task id="LOCAL-00001" summary="Função Split">
       <created>1490945253554</created>
@@ -600,11 +603,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490945253554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testes de Split e Merge com sucesso">
+      <created>1490949640994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490949640994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9246000" />
+    <option name="totallyTimeSpent" value="10978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1279" height="760" extended-state="0" />
@@ -649,7 +659,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Função Split" />
-    <option name="LAST_COMMIT_MESSAGE" value="Função Split" />
+    <MESSAGE value="Testes de Split e Merge com sucesso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testes de Split e Merge com sucesso" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -667,8 +678,8 @@
         <state relative-caret-position="1428">
           <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding>
-            <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-            <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -680,6 +691,9 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#621#630#0" expanded="true" />
+            <element signature="e#1279#1288#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+            <element signature="e#1407#1416#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -689,8 +703,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-            <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -702,6 +716,9 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#621#630#0" expanded="true" />
+            <element signature="e#1279#1288#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+            <element signature="e#1407#1416#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -711,8 +728,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-            <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -724,6 +741,9 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#621#630#0" expanded="true" />
+            <element signature="e#1279#1288#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+            <element signature="e#1407#1416#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -733,8 +753,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-            <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -746,6 +766,9 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#621#630#0" expanded="true" />
+            <element signature="e#1279#1288#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+            <element signature="e#1407#1416#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -755,8 +778,8 @@
         <state relative-caret-position="2023">
           <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding>
-            <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-            <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -768,30 +791,36 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#621#630#0" expanded="true" />
+            <element signature="e#1279#1288#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+            <element signature="e#1407#1416#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ex1MOD2.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex1MOD2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-933">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Mergesort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="69">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#621#630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="104" column="39" lean-forward="true" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
-          <folding>
-            <marker date="1490949559000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
-            <marker date="1490949559000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+            <element signature="e#1279#1288#0" expanded="true" />
+            <element signature="e#1343#1352#0" expanded="true" />
+            <element signature="e#1407#1416#0" expanded="true" />
           </folding>
         </state>
       </provider>
