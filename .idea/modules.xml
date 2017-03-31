@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OrdenacaoED.iml" filepath="$PROJECT_DIR$/OrdenacaoED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2MergeSort.iml" filepath="$PROJECT_DIR$/Lab2MergeSort.iml" />
     </modules>
   </component>
 </project>

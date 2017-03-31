@@ -11,11 +11,11 @@ class Mergesort {
             return;
         }
         int meio = (int) Math.floor(l.size()/2);
-        for(int i = 0; i <= meio; i++){
+        for(int i = 0; i < meio; i++){
             l1.add(l.get(i));
         }
 
-        for (int j = meio+1; j<l.size(); j++){
+        for (int j = meio; j<l.size(); j++){
             l2.add(l.get(j));
         }
     }
