@@ -18,7 +18,32 @@ class Mergesort {
 
     static LinkedList<Integer> merge(LinkedList<Integer> l1,
                                      LinkedList<Integer> l2) {
-        return null; // a ser completada
+        LinkedList<Integer> mesclada = new LinkedList<Integer>();
+
+        int i = 0;
+        int j = 0;
+
+        while (i < l1.size() && j < l2.size()) {
+            if (l1.get(i) <= l2.get(j)) {
+                mesclada.add(l1.get(i));
+                i++;
+            } else {
+                mesclada.add(l2.get(j));
+                j++;
+            }
+        }
+
+        while (i < l1.size()){
+            mesclada.add(l1.get(i));
+            i++;
+        }
+
+        while (j < l2.size()){
+            mesclada.add(l2.get(j));
+            j++;
+        }
+
+        return mesclada;
     }
 
     static LinkedList<Integer> mergesort(LinkedList<Integer> l) {

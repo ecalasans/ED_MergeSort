@@ -85,7 +85,7 @@ public class Ex1 {
                     System.exit(1);
                 }
         }
-/*        System.out.println("teste de merge");
+       System.out.println("teste de merge");
         for (int len = 0; len < 5; len++) {
             LinkedList<Integer> l1 = new LinkedList<Integer>(), l2 = new LinkedList<Integer>();
             for (int i = 0; i < len; i++) {
@@ -109,7 +109,8 @@ public class Ex1 {
                     System.exit(1);
                 }
         }
-        System.out.println("teste de mergesort");
+
+        /*System.out.println("teste de mergesort");
         for (int len = 0; len < 10; len++)
             for (int j = 0; j <= len; j++)
                 test(random_list(len));
