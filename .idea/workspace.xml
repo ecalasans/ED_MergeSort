@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="071914ab-6763-4c60-92d3-62b510a6acae" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Ex1.java" afterPath="$PROJECT_DIR$/src/Ex1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Mergesort.java" afterPath="$PROJECT_DIR$/src/Mergesort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,7 +22,7 @@
       <file leaf-file-name="Ex1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ex1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-933">
+            <state relative-caret-position="170">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
@@ -36,14 +35,14 @@
       <file leaf-file-name="Mergesort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Mergesort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="109">
+              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#621#630#0" expanded="true" />
-                <element signature="e#1279#1288#0" expanded="true" />
-                <element signature="e#1343#1352#0" expanded="true" />
-                <element signature="e#1407#1416#0" expanded="true" />
+                <element signature="e#689#698#0" expanded="true" />
+                <element signature="e#1347#1356#0" expanded="true" />
+                <element signature="e#1411#1420#0" expanded="true" />
+                <element signature="e#1475#1484#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,9 +119,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -594,7 +593,8 @@
       <workItem from="1490562037766" duration="9000" />
       <workItem from="1490564232303" duration="564000" />
       <workItem from="1490943881002" duration="116000" />
-      <workItem from="1490944168501" duration="5085000" />
+      <workItem from="1490944168501" duration="5845000" />
+      <workItem from="1490962235223" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="Função Split">
       <created>1490945253554</created>
@@ -610,11 +610,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490949640994</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Teste de MergeSort - não ordena lista de números ímpares">
+      <created>1490951865844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490951865844</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10978000" />
+    <option name="totallyTimeSpent" value="12374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1279" height="760" extended-state="0" />
@@ -629,7 +636,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299566" sideWeight="0.50586396" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299566" sideWeight="0.49413604" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299566" sideWeight="0.49413604" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -660,7 +667,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Função Split" />
     <MESSAGE value="Testes de Split e Merge com sucesso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testes de Split e Merge com sucesso" />
+    <MESSAGE value="Teste de MergeSort - não ordena lista de números ímpares" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste de MergeSort - não ordena lista de números ímpares" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,6 +681,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
+            <marker date="1490950659000" expanded="false" signature="3147:3156" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mergesort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ex1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
@@ -690,10 +723,10 @@
           <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#621#630#0" expanded="true" />
-            <element signature="e#1279#1288#0" expanded="true" />
-            <element signature="e#1343#1352#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -715,10 +748,10 @@
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#621#630#0" expanded="true" />
-            <element signature="e#1279#1288#0" expanded="true" />
-            <element signature="e#1343#1352#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -740,10 +773,10 @@
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#621#630#0" expanded="true" />
-            <element signature="e#1279#1288#0" expanded="true" />
-            <element signature="e#1343#1352#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -765,10 +798,10 @@
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#621#630#0" expanded="true" />
-            <element signature="e#1279#1288#0" expanded="true" />
-            <element signature="e#1343#1352#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -790,10 +823,10 @@
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#621#630#0" expanded="true" />
-            <element signature="e#1279#1288#0" expanded="true" />
-            <element signature="e#1343#1352#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -802,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/src/Ex1MOD2.java" />
     <entry file="file://$PROJECT_DIR$/src/Ex1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
+        <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <marker date="1490950659000" expanded="false" signature="3115:3124" ph="&lt;~&gt;" />
@@ -813,14 +846,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mergesort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        <state relative-caret-position="109">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#621#630#0" expanded="true" />
-            <element signature="e#1279#1288#0" expanded="true" />
-            <element signature="e#1343#1352#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
+            <element signature="e#689#698#0" expanded="true" />
+            <element signature="e#1347#1356#0" expanded="true" />
+            <element signature="e#1411#1420#0" expanded="true" />
+            <element signature="e#1475#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -7,11 +7,15 @@ import java.util.LinkedList;
 class Mergesort {
 
     static void split(LinkedList<Integer> l, LinkedList<Integer> l1, LinkedList<Integer> l2) {
-        for(int i = 0; i < Math.ceil(l.size()/2); i++){
+        if (l.isEmpty()) {
+            return;
+        }
+        int meio = (int) Math.floor(l.size()/2);
+        for(int i = 0; i <= meio; i++){
             l1.add(l.get(i));
         }
 
-        for (int j = (int) Math.floor(l.size()/2); j<l.size(); j++){
+        for (int j = meio+1; j<l.size(); j++){
             l2.add(l.get(j));
         }
     }
@@ -57,8 +61,8 @@ class Mergesort {
         } else {
             split(l, lista1, lista2);
 
-            mergesort(lista1);
-            mergesort(lista2);
+            lista1 = mergesort(lista1);
+            lista2 = mergesort(lista2);
             ordenada = merge(lista1, lista2);
         }
 
